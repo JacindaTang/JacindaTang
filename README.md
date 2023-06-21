@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30" /> 
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+<!-- 👋 -->
 
-<!--
-**JacindaTang/JacindaTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://emojis.slackmojis.com/emojis/images/1479080836/1363/eevee.gif?1479080836" width="30" /> I am Jacinda who is a developer from LongYan.
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links 📌
+
+- VitePressBlog: [https://vitepress.jacindatang.top/](https://vitepress.jacindatang.top/)
+- HexoBlog: [https://jacindatang.top/](https://jacindatang.top/)
+- juejin: [https://juejin.cn/user/553809591412173](https://juejin.cn/user/553809591412173)
