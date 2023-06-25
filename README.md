@@ -11,15 +11,21 @@
 **Web Developer**
 
 <p>
-<img alt="Vue 2" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
-<img alt="UniApp" src="https://img.shields.io/badge/-Uniapp-5BA17F?style=flat-square&logo=Uniapp&logoColor=green" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Vue 2" src="https://img.shields.io/badge/-Vue2-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
 </p>
 
 **Backend Developer**
 
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-Yii-43853d?style=flat-square&logo=Yii&logoColor=purple" />
+  <img alt="PHP Yii" src="https://img.shields.io/badge/-Yii-61649f?style=flat-square&logo=php&logoColor=white" />
+</p>
+
+**DataBase**
+
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ### Links 📌
